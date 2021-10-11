@@ -1,9 +1,9 @@
-# Sublime Text 2 config sync repo
+## Sublime Text 2 config sync repo
 
 A simple way of backing up/syncing of the __*C:\Users\lunule\AppData\Roaming\Sublime Text 2\Packages\User*__ folder. 
 Based on @math2001's smart suggestion at https://forum.sublimetext.com/t/what-s-the-best-way-to-backup-the-st3-configuration/25494#post_2 🙇‍♂️
 
-## How to use it?
+### How to use it?
 
 Quote @math2001: 
 
