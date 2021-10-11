@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"Alignment",
+		"AutoFileName",
+		"Compare Side-By-Side",
+		"CSSFontFamily",
+		"Dayle Rees Color Schemes",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Increment Selection",
+		"Minify",
+		"Package Control",
+		"SCSS",
+		"Search WordPress Codex",
+		"SublimeGit",
+		"Syntax Highlighting for PostCSS",
+		"Text Pastry",
+		"Theme - Afterglow",
+		"Theme - Spacegray",
+		"WordPress"
+	]
+}

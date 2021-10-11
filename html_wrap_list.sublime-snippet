@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<${1:ul}>
+<li>${SELECTION/\n/<\/li>\n<li>/g}</li>
+</$1>
+]]></content>
+    <description>Wrap as List</description>
+    <scope>text.html</scope>
+</snippet>

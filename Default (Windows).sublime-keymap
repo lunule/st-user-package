@@ -1,0 +1,19 @@
+[
+	{ "keys": ["shift+alt+1"], "command": "insert_snippet", "args": {"name": "Packages/User/html_wrap_list.sublime-snippet"} },
+	{ "keys": ["shift+alt+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["shift+alt+down"], "command": "select_lines", "args": {"forward": true} },
+	// Insert nums
+	{ "keys": ["shift+alt+b"], "command": "prompt_insert_nums" },
+	{ "keys": ["shift+alt+n"], "command": "prompt_insert_nums", "args": { "preview": false } },
+	// Text pastry
+    { "keys": ["shift+alt+f"], "command": "text_pastry_show_command_line", "args": { "text": "" } },
+    { "keys": ["shift+alt+g"], "command": "text_pastry_show_menu" },
+    { "keys": ["shift+alt+h"], "command": "text_pastry_insert_text", "args": { "clipboard": true, "separator": "\\n" } },
+    { "keys": ["shift+alt+)"], "command": "text_pastry_redo" },
+
+    { "keys": ["shift+alt+up"], "command": "text_pastry_history_navigator", "args": { "reverse": true },
+      "context": [{ "key": "setting.text_pastry_command_line", "operator": "equal", "operand": true }, {"key": "panel_has_focus"}] },
+
+    { "keys": ["shift+alt+down"], "command": "text_pastry_history_navigator", "args": { "reverse": false },
+      "context": [{ "key": "setting.text_pastry_command_line", "operator": "equal", "operand": true }, {"key": "panel_has_focus"}] }	
+]
