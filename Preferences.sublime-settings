@@ -33,7 +33,7 @@
 	"tabs_padding_medium": true,
 	"theme": "Spacegray.sublime-theme",
 	"trim_trailing_white_space_on_save": false,
+	"update_check": false,
 	"word_wrap": true,
-	"wrap_width": 100,
-	"update_check": false
+	"wrap_width": 100
 }
